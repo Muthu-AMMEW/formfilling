@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <>
-    <h3 className="container-fluid text-bg-light text-info">Welcome to my world</h3>
+    <h3 className="container-fluid text-bg-light text-info">Welcome to my timer world</h3>
     </>
   );
 }
