@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
+
   return (
     <>
-    <h3 className="container-fluid text-bg-danger text-info">Welcome to my timer world</h3>
+    
     </>
   );
 }
